@@ -1,0 +1,71 @@
+.container {
+    margin: 20px;
+}
+
+.task-edit {
+    background-color: lightgray;
+}
+
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.task-show {
+}
+
+.task-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.task-container {
+
+}
+
+.tasks-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding: 10px;
+}
+
+.tasks-wrapper li {
+    margin-bottom: 20px;
+}
+
+.estimation-input-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.estimation-input {
+    width: 50px;
+}
+
+.add-form {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.add-form textarea {
+    max-width: 345px;
+    max-height: 100px;
+}
+
+.add-form-field {
+    margin-bottom: 30px;
+}
+
+.add-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.task-title {
+    font-weight: 800;
+    font-size: 22px;
+}
